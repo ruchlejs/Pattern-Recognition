@@ -1,1 +1,2 @@
-"# Pattern-Recognition" 
+# Pattern Recognition Project
+In this project, the focus is on tackling pattern recognition challenges through the application of diverse machine learning methods. We employ a variety of techniques, including kernel regression, kernel substitution using Support Vector Machines (SVM), neural networks with backpropagation, and deep learning featuring Convolutional Neural Networks (CNN). The project aims to explore the strengths and weaknesses of each method in the context of pattern recognition, providing a comprehensive understanding of their applicability and performance.
